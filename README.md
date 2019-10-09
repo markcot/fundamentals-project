@@ -32,3 +32,8 @@ The 'tips' dataset is already preloaded in the python seaborn module. A csv file
 
 ##### Conclusion
 - Decribe the conclusion of the results.
+
+
+
+
+
