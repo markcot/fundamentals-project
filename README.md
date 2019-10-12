@@ -1,8 +1,9 @@
 # Fundamentals of Data Analysis - Project
-**Author** Mark Cotter - GMIT
-**Email** g00376335@gmit.ie
-**Dates** September 2019 to November 2019
-**Lecturer** Ian McLoughlin
+- **Course** Higher Diploma in Data Analytics, GMIT, Ireland
+- **Lecturer** Ian McLoughlin
+- **Author** Mark Cotter
+- **Email** g00376335@gmit.ie
+- **Dates** September 2019 to November 2019
 
 #### Introduction
 This document is my marked down file for the GMIT module 'Fundamentals of Data Analysis' project. The project includes a review and analysis of the well known 'tips' dataset. The analysis of the dataset is undertaken using a jupyter notebook (https://jupyter.org/), which is included in this repository as 'tips-analysis.ipynb'. The notebook utilises the python programming langauge (https://www.python.org/) to analyse the dataset.
@@ -25,10 +26,14 @@ The 'tips' dataset is already preloaded in the python seaborn module. A csv file
 ##### Regression
 - Compare variables 'total bill' and 'tip' amount
 - Discuss the relationship between the variables
+- Plot data points comparisons
+- Review distribution of tip/total_bill percentage
 
 ##### Analyse
 - Based on the initial description select a number of interesting variables
 - Undertake a detailed analyse of these variable relationships
+- Analyse patterns in smokers versus non-smoker
+- Analyse patterns in meal times and days of the week
 
 ##### Conclusion
 - Decribe the conclusion of the results.
