@@ -6,39 +6,41 @@
 - **Dates** September 2019 to November 2019
 
 #### Introduction
-This document is my marked down file for the GMIT module 'Fundamentals of Data Analysis' project. The project includes a review and analysis of the well known 'tips' dataset. The analysis of the dataset is undertaken using a jupyter notebook (https://jupyter.org/), which is included in this repository as 'tips-analysis.ipynb'. The notebook utilises the python programming langauge (https://www.python.org/) to analyse the dataset.
+This document is my marked down file for the GMIT module 'Fundamentals of Data Analysis' project. The project includes a review and analysis of the well-known 'tips' dataset. My analysis of the dataset is undertaken using a jupyter notebook (https://jupyter.org/), which is included in this repository as 'tips-analysis.ipynb'. This jupyter notebook utilises the python programming language (https://www.python.org/) to analyse the dataset.
 
-The jupyter notebook can be viewed as a read only on the GitHub repository page https://github.com/markcot/fundamentals-project. This repository may be cloned to a local hard drive and run locally using jupyter notebook from the command line or terminal.
+The jupyter notebook can be viewed as a read only file on the GitHub repository page https://github.com/markcot/fundamentals-project. This repository may be cloned to a local hard drive and run locally using jupyter notebook from the command line or terminal. When the notebook is first opened, the user should start by running all of code in the notebook. Select from the drop down option 'Restart & Run All' under the menu heading 'Kernel'.
 
-The 'tips' dataset is already preloaded in the python seaborn module. A csv file of the 'tips' dataset is included in this repository for information. The source of this csv file is https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv.
+The 'tips' dataset is already preloaded in the python seaborn module. A csv file of the tips dataset called 'tips.csv' is included in this repository for information. The source of this csv file is https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv.
 
 #### Project Plan
 
-##### Description
+##### Setup
 - Create and Initialise the GitHub repository
 - Create the jupter notebook
 - Load the csv
-- Undertake desk review of previous anaylyse of the database
-- Summarise the data variables
-- Get ranges of variable max, min, average, outliers, etc.
-- Display plots of the variables to further describe the variable
+
+##### Description
+- Undertake desk review of previous analysis of the database
+- Describe the data variables
+- Get ranges of numberic variables max, min, average, median
+- Review % of smokers and % of males/female
+- Review days of the week
+- Display plots to further describe the variables
 
 ##### Regression
-- Compare variables 'total bill' and 'tip' amount
+- Compare variables total_bill and tip
 - Discuss the relationship between the variables
-- Plot data points comparisons
+- Plot comparisons of data points
 - Review distribution of tip/total_bill percentage
+- Review sum of total_bill and tip. How often do it round to 0 cent
 
 ##### Analyse
 - Based on the initial description select a number of interesting variables
 - Undertake a detailed analyse of these variable relationships
-- Analyse patterns in smokers versus non-smoker
-- Analyse patterns in meal times and days of the week
+- Review patterns in smokers versus non-smoker
+- Review patterns in meal times and days of the week
+- Review party size compared to total_bill and tip
 
 ##### Conclusion
-- Decribe the conclusion of the results.
-
-
-
-
+- Summarise conclusions of the analysis.
 
