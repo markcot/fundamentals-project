@@ -15,15 +15,15 @@ The 'tips' dataset is already preloaded in the python seaborn module. A csv file
 #### Project Plan
 
 ##### Setup
-- Create and Initialise the GitHub repository
-- Create the jupter notebook
+- Create and initialise the GitHub repository
+- Create the jupyter notebook
 - Load the csv
 
 ##### Description
 - Undertake desk review of previous analysis of the database
-- Describe the data variables
-- Get ranges of numberic variables max, min, average, median
-- Review % of smokers and % of males/female
+- Describe the dataset variables
+- Get ranges of numeric variables max, min, average, median
+- Review % of smokers and % of males/females
 - Review days of the week
 - Display plots to further describe the variables
 
@@ -32,7 +32,7 @@ The 'tips' dataset is already preloaded in the python seaborn module. A csv file
 - Discuss the relationship between the variables
 - Plot comparisons of data points
 - Review distribution of tip/total_bill percentage
-- Review sum of total_bill and tip. How often do it round to 0 cent
+- Review sum of total_bill and tip and how often does it round to 0 cent
 
 ##### Analyse
 - Based on the initial description select a number of interesting variables
