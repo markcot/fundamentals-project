@@ -6,9 +6,9 @@
 - **Dates** September 2019 to November 2019
 
 #### Introduction
-This document is my marked down file for the GMIT module 'Fundamentals of Data Analysis' project. The project includes a review and analysis of the well-known 'tips' dataset. My analysis of the dataset is undertaken using a jupyter notebook (https://jupyter.org/), which is included in this repository as 'tips-analysis.ipynb'. This jupyter notebook utilises the python programming language (https://www.python.org/) to analyse the dataset.
+This document is my marked down file for the GMIT module 'Fundamentals of Data Analysis' project. The project includes a review and analysis of the well-known 'tips' dataset. My analysis of the dataset is undertaken using a jupyter notebook (https://jupyter.org/), which is included in this repository as 'tips-analysis.ipynb'. This jupyter notebook utilises the Python programming language (https://www.python.org/) to analyse the dataset.
 
-The jupyter notebook can be viewed as a read only file on the GitHub repository page https://github.com/markcot/fundamentals-project. This repository may be cloned to a local hard drive and run locally using jupyter notebook from the command line or terminal. When the notebook is first opened, the user should start by running all of code in the notebook. Select from the drop down option 'Restart & Run All' under the menu heading 'Kernel'.
+The jupyter notebook can be viewed at https://nbviewer.jupyter.org/github/markcot/fundamentals-project/blob/master/tips-analysis.ipynb?flush_cache=true. This GitHub repository https://github.com/markcot/fundamentals-project can be cloned to a local hard drive and run locally using jupyter notebook from the command line or terminal. When the notebook is first opened, the user should start by running all of code in the notebook. Select from the drop down option 'Restart & Run All' under the menu heading 'Kernel'.
 
 The 'tips' dataset is already preloaded in the python seaborn module. A csv file of the tips dataset called 'tips.csv' is included in this repository for information. The source of this csv file is https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv.
 
@@ -38,8 +38,8 @@ The 'tips' dataset is already preloaded in the python seaborn module. A csv file
 - Based on the initial description select a number of interesting variables
 - Undertake a detailed analyse of these variable relationships
 - Review patterns in smokers versus non-smoker
-- Review patterns in meal times and days of the week
 - Review party size compared to total_bill and tip
+- Review patterns in meal times and days of the week
 
 ##### Conclusion
 - Summarise conclusions of the analysis.
