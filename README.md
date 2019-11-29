@@ -32,7 +32,7 @@ The 'tips' dataset is already preloaded in the python seaborn module. A csv file
 - Discuss the relationship between the variables
 - Plot comparisons of data points
 - Review distribution of tip/total_bill percentage
-- Review sum of total_bill and tip and how often does it round to 0 cent
+- Review variables total_bill, tip and their sum and whole number rounding
 
 ##### Analyse
 - Based on the initial description select a number of interesting variables
@@ -42,4 +42,5 @@ The 'tips' dataset is already preloaded in the python seaborn module. A csv file
 - Review patterns in meal times and days of the week
 
 ##### Conclusion
-- Summarise conclusions of the analysis.
+- Summarise conclusions of the analysis
+- Comparision result with other analysis
